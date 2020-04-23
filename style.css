@@ -14,3 +14,7 @@ ol {
 body {
 	background-color: rgb(28, 28, 28);
 }
+
+img {
+	width: 150px;
+}
