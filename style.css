@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+
+h2 {
+	color: purple;
+	font-size: 15px;
+}
+
+ol {
+	color: red;
+}
+
+body {
+	background-color: rgb(28, 28, 28);
+}
